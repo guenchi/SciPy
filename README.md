@@ -9,3 +9,13 @@ https://github.com/guenchi/Darkart
 https://github.com/python/cpython
 
 https://github.com/scipy/scipy
+
+### The Darkart eco-system:
+
+https://github.com/guenchi/NumPy
+
+https://github.com/guenchi/SciPy
+
+https://github.com/guenchi/SymPy
+
+https://github.com/guenchi/Matplotlib
