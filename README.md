@@ -1,6 +1,6 @@
 # SciPy for Chez Scheme
 
-![image](https://github.com/guenchi/SciPy/blob/master/scipy.png)
+![image](https://github.com/guenchi/SciPy/blob/master/img/scipy.png)
 
 ### Depencies:
 
