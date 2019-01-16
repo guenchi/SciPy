@@ -10,7 +10,7 @@ https://github.com/python/cpython
 
 https://github.com/scipy/scipy
 
-### The Darkart eco-system:
+### The Darkart ecosystem:
 
 https://github.com/guenchi/NumPy
 
