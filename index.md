@@ -2,7 +2,7 @@
 
 ![image](img/scipy.png)
 
-### Depencies:
+## Depencies:
 
 https://github.com/guenchi/Darkart
 
@@ -10,7 +10,7 @@ https://github.com/python/cpython
 
 https://github.com/scipy/scipy
 
-### The Darkart ecosystem:
+## The Darkart ecosystem:
 
 https://github.com/guenchi/NumPy
 
