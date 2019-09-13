@@ -4,11 +4,11 @@
 
 ## Depencies:
 
-https://github.com/guenchi/Darkart
+- [Darkart](https://github.com/guenchi/Darkart)
 
-https://github.com/python/cpython
+- [CPython](https://github.com/python/cpython)
 
-https://github.com/scipy/scipy
+- [SciPy](https://github.com/scipy/scipy)
 
 ## Darkart's ecosystem
 
