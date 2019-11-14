@@ -4,7 +4,7 @@
 
 ### Depencies:
 
-https://github.com/guenchi/Darkart
+https://guenchi.github.io/Darkart
 
 https://github.com/python/cpython
 
@@ -12,12 +12,12 @@ https://github.com/scipy/scipy
 
 ### The Darkart ecosystem:
 
-https://github.com/guenchi/NumPy
+https://guenchi.github.io/NumPy
 
-https://github.com/guenchi/SciPy
+https://guenchi.github.io/SciPy
 
-https://github.com/guenchi/SymPy
+https://guenchi.github.io/SymPy
 
-https://github.com/guenchi/Matplotlib
+https://guenchi.github.io/Matplotlib
 
-https://github.com/guenchi/Pandas
+https://guenchi.github.io/Pandas
